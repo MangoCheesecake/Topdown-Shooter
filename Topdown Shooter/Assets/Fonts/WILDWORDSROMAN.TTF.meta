@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9cfff0271c586194787a847e25bda1b6
+timeCreated: 1514602017
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Wild Words
+  fontNames:
+  - Wild Words
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 68bd8ecb9bda88f448440912f4490920, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
